@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mohd Roshan Hussain
+- 👀 I’m interested in Coding mainly Front End Development
+- 🌱 I’m currently learning JS and Java
