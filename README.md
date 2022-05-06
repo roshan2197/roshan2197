@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mohd Roshan Hussain solo web developer of kashmirzakat.com website 
-- 👀 I’m interested in Coding mainly Front End Development
+- 👀 I’m interested in Coding -- web development 
 - 🌱 I’m currently learning JS and Java
