@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roshan  
 
-💻 **Full-Stack Engineer** with **3+ years of experience** in building scalable, modern web applications.  
+💻 **Front-End Engineer** with **3+ years of experience** in building scalable, modern web applications.  
 ⚡ Specialized in **Angular (v17/18), Node.js, Express.js, and MySQL/MariaDB**.  
 📊 Currently working on **ERP systems** and a **School Management System** with real-time features and modern UI (Angular + Tailwind CSS).  
 🌱 Exploring **AI/ML** to integrate intelligent, data-driven features into enterprise apps.  
