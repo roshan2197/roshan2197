@@ -60,6 +60,13 @@ I build modern, performant web & enterprise applications — focusing on scalabi
 
 ---
 
+## 🧮 Python Libraries & Data Science
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+---
+
 ## 📚 Currently Learning
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
