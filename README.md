@@ -1,38 +1,121 @@
-# 👋 Hi, I'm Roshan  
+# 👋 Hi, I'm Roshan
 
-💻 **Front-End Engineer** with **3+ years of experience** in building scalable, modern web applications.  
-⚡ Specialized in **Angular (v17/18), Node.js, Express.js, and MySQL/MariaDB**.  
-📊 Currently working on **ERP systems** and a **School Management System** with real-time features and modern UI (Angular + Tailwind CSS).  
-🌱 Exploring **AI/ML** to integrate intelligent, data-driven features into enterprise apps.  
-🚀 Passionate about **clean code, performance optimization, and exploring new technologies**.  
+**Front-End / Full-Stack Engineer** from Hyderabad, India.  
+I build modern, performant web & enterprise applications — focusing on scalability, maintainability, and real-time features.
 
 ---
 
-## 🛠 Tech Stack  
-- **Frontend:** Angular, TypeScript, JavaScript, Tailwind CSS, Angular Material  
-- **Backend:** Node.js, Express.js, Django (exploring)  
-- **Database:** MySQL, MariaDB  
-- **Tools & Others:** Git, REST APIs, WebSockets, Microservices  
+## 🧠 Skills & Technologies
 
 ---
 
-## 📌 Current Projects  
-- 📚 **School Management System (Personal)** – A full-stack solution with modern UI, real-time updates, and student/exam management.  
-- 🏢 **ERP System** – Optimized, feature-rich ERP with Angular 17 & microservices architecture.  
+## 🧩 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Goals  
-- Grow into **Full-Stack + AI/ML Engineer**  
-- Slowly expand into **Data Science fundamentals**
-- Expand skills in **React and React Native**  
-- Continuously **explore new technologies** to stay ahead  
+## 🎨 Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect with Me  
-- **GitHub:** [github.com/roshan2197](https://github.com/roshan2197)  
-- **LinkedIn:** [linkedin.com/in/roshan2197](https://linkedin.com/in/roshan2197)  
+## ⚙️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
 ---
-✨ _"Delivering high-quality, performant software with a forward-looking mindset."_  
+
+## 🗄️ Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 🛠 DevOps, Tools & Scripting
+<p>
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+---
+
+## 📚 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+
+---
+
+## 🚀 What I'm Working On
+
+- Building a modular **ERP system** using Angular (v17/18), microservices, and real-time capabilities.  
+- Developing a **School Management System** — full-stack Angular + Django + MariaDB, with real-time updates and clean UI.  
+- Exploring **AI/ML & data-driven features** to bring intelligent functionality into enterprise apps.
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description |
+|------------------|-------------|
+| **School Management System** | Full-stack system for managing students, classes, exams — with live updates, historical data, and performant UI. |
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+
+  <!-- GitHub -->
+  <a href="https://github.com/roshan2197" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://in.linkedin.com/in/roshan2197" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/mdroshan123" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <!-- Portfolio Website -->
+  <a href="https://roshan2197.github.io/roshan-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:mdroshan.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+
+> “Building clean, maintainable, high-performance software — always learning, always evolving.”  
