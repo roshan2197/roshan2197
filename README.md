@@ -5,9 +5,6 @@ I build modern, performant web & enterprise applications — focusing on scalabi
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=roshan2197&theme=dark&hide_current_streak=true)
----
-
 ## 🧠 Skills & Technologies
 
 ## 🧩 Programming Languages
