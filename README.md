@@ -21,6 +21,7 @@ I build modern, performant web & enterprise applications — focusing on scalabi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -85,6 +86,9 @@ I build modern, performant web & enterprise applications — focusing on scalabi
 
 <p align="left">
 
+<!-- Profile VIew -->
+![Profile Views](https://komarev.com/ghpvc/?username=roshan2197&color=blue)
+
   <!-- GitHub -->
   <a href="https://github.com/roshan2197" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -112,4 +116,16 @@ I build modern, performant web & enterprise applications — focusing on scalabi
 
 </p>
 
-> “Building clean, maintainable, high-performance software — always learning, always evolving.”  
+> “Building clean, maintainable, high-performance software — always learning, always evolving.”
+ 
+<div align="center">
+
+  <!-- Spacer -->
+  <br/><br/>
+  
+  <!-- Stats Cards -->
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=roshan2197&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" /> -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan2197&theme=tokyonight&hide_border=true" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan2197&layout=compact&hide_border=true&theme=tokyonight" /> -->
+
+</div>
